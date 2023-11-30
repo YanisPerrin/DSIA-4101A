@@ -1,0 +1,7 @@
+pandas 
+pycountry_convert 
+numpy 
+plotly
+plotly_express 
+dash
+lxml
