@@ -1,0 +1,774 @@
+,Country,Cost of Living Index,Year,Rank,Iso Code 2,Continent,Iso Code 3
+0,Afghanistan,24.2,2020,131,AF,Asia,AFG
+1,Afghanistan,20.4,2022,138,AF,Asia,AFG
+2,Albania,60.5,2010,37,AL,Europe,ALB
+3,Albania,49.0,2014,88,AL,Europe,ALB
+4,Albania,33.8,2016,108,AL,Europe,ALB
+5,Albania,37.9,2018,88,AL,Europe,ALB
+6,Albania,36.4,2020,95,AL,Europe,ALB
+7,Albania,35.5,2022,99,AL,Europe,ALB
+8,Algeria,40.6,2012,88,DZ,Africa,DZA
+9,Algeria,39.1,2014,108,DZ,Africa,DZA
+10,Algeria,28.9,2016,115,DZ,Africa,DZA
+11,Algeria,32.1,2018,105,DZ,Africa,DZA
+12,Algeria,30.1,2020,119,DZ,Africa,DZA
+13,Algeria,26.9,2022,135,DZ,Africa,DZA
+14,Argentina,53.2,2010,47,AR,South America,ARG
+15,Argentina,63.1,2012,51,AR,South America,ARG
+16,Argentina,66.8,2014,45,AR,South America,ARG
+17,Argentina,64.1,2016,31,AR,South America,ARG
+18,Argentina,53.7,2018,51,AR,South America,ARG
+19,Argentina,33.0,2020,108,AR,South America,ARG
+20,Argentina,34.7,2022,105,AR,South America,ARG
+21,Armenia,62.8,2012,53,AM,Asia,ARM
+22,Armenia,46.7,2014,94,AM,Asia,ARM
+23,Armenia,35.5,2016,101,AM,Asia,ARM
+24,Armenia,33.5,2018,100,AM,Asia,ARM
+25,Armenia,32.8,2020,109,AM,Asia,ARM
+26,Armenia,33.9,2022,109,AM,Asia,ARM
+27,Australia,100.5,2010,14,AU,Oceania,AUS
+28,Australia,123.0,2012,5,AU,Oceania,AUS
+29,Australia,108.5,2014,7,AU,Oceania,AUS
+30,Australia,78.5,2016,13,AU,Oceania,AUS
+31,Australia,84.3,2018,12,AU,Oceania,AUS
+32,Australia,73.5,2020,16,AU,Oceania,AUS
+33,Australia,77.7,2022,14,AU,Oceania,AUS
+34,Austria,107.3,2010,11,AT,Europe,AUT
+35,Austria,94.8,2012,21,AT,Europe,AUT
+36,Austria,89.5,2014,22,AT,Europe,AUT
+37,Austria,66.6,2016,27,AT,Europe,AUT
+38,Austria,81.5,2018,20,AT,Europe,AUT
+39,Austria,70.4,2020,21,AT,Europe,AUT
+40,Austria,71.0,2022,24,AT,Europe,AUT
+41,Azerbaijan,71.2,2012,40,AZ,Asia,AZE
+42,Azerbaijan,63.1,2014,50,AZ,Asia,AZE
+43,Azerbaijan,28.9,2016,114,AZ,Asia,AZE
+44,Azerbaijan,30.6,2018,107,AZ,Asia,AZE
+45,Azerbaijan,29.9,2020,120,AZ,Asia,AZE
+46,Azerbaijan,29.7,2022,126,AZ,Asia,AZE
+47,Bahamas,103.4,2014,11,BS,North America,BHS
+48,Bahamas,107.5,2016,3,BS,North America,BHS
+49,Bahamas,100.7,2018,5,BS,North America,BHS
+50,Bahamas,82.5,2020,6,BS,North America,BHS
+51,Bahamas,84.0,2022,9,BS,North America,BHS
+52,Bahrain,55.0,2010,43,BH,Asia,BHR
+53,Bahrain,99.5,2012,15,BH,Asia,BHR
+54,Bahrain,59.1,2014,61,BH,Asia,BHR
+55,Bahrain,48.2,2016,60,BH,Asia,BHR
+56,Bahrain,59.6,2018,40,BH,Asia,BHR
+57,Bahrain,58.9,2020,35,BH,Asia,BHR
+58,Bahrain,54.8,2022,44,BH,Asia,BHR
+59,Bangladesh,40.4,2014,106,BD,Asia,BGD
+60,Bangladesh,35.5,2016,100,BD,Asia,BGD
+61,Bangladesh,32.0,2018,106,BD,Asia,BGD
+62,Bangladesh,32.3,2020,110,BD,Asia,BGD
+63,Bangladesh,33.1,2022,113,BD,Asia,BGD
+64,Barbados,76.0,2020,12,BB,North America,BRB
+65,Barbados,92.4,2022,5,BB,North America,BRB
+66,Belarus,43.0,2010,54,BY,Europe,BLR
+67,Belarus,45.6,2012,83,BY,Europe,BLR
+68,Belarus,50.3,2014,82,BY,Europe,BLR
+69,Belarus,39.4,2016,88,BY,Europe,BLR
+70,Belarus,34.1,2018,98,BY,Europe,BLR
+71,Belarus,34.7,2020,101,BY,Europe,BLR
+72,Belarus,30.9,2022,120,BY,Europe,BLR
+73,Belgium,120.0,2010,6,BE,Europe,BEL
+74,Belgium,108.7,2012,7,BE,Europe,BEL
+75,Belgium,100.0,2014,15,BE,Europe,BEL
+76,Belgium,75.4,2016,18,BE,Europe,BEL
+77,Belgium,83.3,2018,16,BE,Europe,BEL
+78,Belgium,71.8,2020,18,BE,Europe,BEL
+79,Belgium,72.6,2022,22,BE,Europe,BEL
+80,Belize,59.4,2016,37,BZ,North America,BLZ
+81,Belize,49.2,2020,56,BZ,North America,BLZ
+82,Belize,51.3,2022,52,BZ,North America,BLZ
+83,Bermuda,133.7,2016,1,BM,North America,BMU
+84,Bermuda,144.9,2018,1,BM,North America,BMU
+85,Bermuda,146.0,2022,1,BM,North America,BMU
+86,Bolivia,38.0,2010,57,BO,South America,BOL
+87,Bolivia,41.0,2014,105,BO,South America,BOL
+88,Bolivia,37.4,2016,95,BO,South America,BOL
+89,Bolivia,36.5,2018,90,BO,South America,BOL
+90,Bolivia,34.6,2020,103,BO,South America,BOL
+91,Bolivia,34.8,2022,103,BO,South America,BOL
+92,Bosnia and Herzegovina,51.2,2010,49,BA,Europe,BIH
+93,Bosnia and Herzegovina,50.8,2012,73,BA,Europe,BIH
+94,Bosnia and Herzegovina,49.8,2014,86,BA,Europe,BIH
+95,Bosnia and Herzegovina,34.6,2016,106,BA,Europe,BIH
+96,Bosnia and Herzegovina,39.3,2018,86,BA,Europe,BIH
+97,Bosnia and Herzegovina,36.0,2020,96,BA,Europe,BIH
+98,Bosnia and Herzegovina,36.1,2022,96,BA,Europe,BIH
+99,Botswana,37.6,2016,93,BW,Africa,BWA
+100,Botswana,39.1,2020,83,BW,Africa,BWA
+101,Botswana,40.2,2022,83,BW,Africa,BWA
+102,Brazil,73.8,2010,27,BR,South America,BRA
+103,Brazil,83.7,2012,31,BR,South America,BRA
+104,Brazil,60.6,2014,54,BR,South America,BRA
+105,Brazil,38.9,2016,89,BR,South America,BRA
+106,Brazil,51.3,2018,55,BR,South America,BRA
+107,Brazil,40.2,2020,78,BR,South America,BRA
+108,Brazil,33.2,2022,112,BR,South America,BRA
+109,Brunei,51.9,2016,52,BN,Asia,BRN
+110,Brunei,44.7,2020,63,BN,Asia,BRN
+111,Bulgaria,59.8,2010,38,BG,Europe,BGR
+112,Bulgaria,50.9,2012,71,BG,Europe,BGR
+113,Bulgaria,50.0,2014,84,BG,Europe,BGR
+114,Bulgaria,36.4,2016,97,BG,Europe,BGR
+115,Bulgaria,41.2,2018,80,BG,Europe,BGR
+116,Bulgaria,36.7,2020,94,BG,Europe,BGR
+117,Bulgaria,38.4,2022,88,BG,Europe,BGR
+118,Cambodia,53.6,2014,71,KH,Asia,KHM
+119,Cambodia,47.3,2016,65,KH,Asia,KHM
+120,Cambodia,45.9,2018,69,KH,Asia,KHM
+121,Cambodia,47.5,2020,59,KH,Asia,KHM
+122,Cambodia,49.1,2022,58,KH,Asia,KHM
+123,Cameroon,39.5,2022,85,CM,Africa,CMR
+124,Canada,86.0,2010,21,CA,North America,CAN
+125,Canada,98.0,2012,17,CA,North America,CAN
+126,Canada,87.9,2014,23,CA,North America,CAN
+127,Canada,64.8,2016,30,CA,North America,CAN
+128,Canada,72.5,2018,26,CA,North America,CAN
+129,Canada,67.6,2020,24,CA,North America,CAN
+130,Canada,70.2,2022,25,CA,North America,CAN
+131,Chile,67.5,2010,30,CL,South America,CHL
+132,Chile,67.4,2012,47,CL,South America,CHL
+133,Chile,60.2,2014,56,CL,South America,CHL
+134,Chile,43.9,2016,76,CL,South America,CHL
+135,Chile,55.2,2018,46,CL,South America,CHL
+136,Chile,43.6,2020,68,CL,South America,CHL
+137,Chile,43.9,2022,73,CL,South America,CHL
+138,China,40.1,2010,55,CN,Asia,CHN
+139,China,48.8,2012,79,CN,Asia,CHN
+140,China,54.1,2014,69,CN,Asia,CHN
+141,China,48.1,2016,61,CN,Asia,CHN
+142,China,44.6,2018,73,CN,Asia,CHN
+143,China,40.0,2020,80,CN,Asia,CHN
+144,China,41.8,2022,80,CN,Asia,CHN
+145,Colombia,54.1,2010,44,CO,South America,COL
+146,Colombia,60.0,2012,58,CO,South America,COL
+147,Colombia,50.4,2014,81,CO,South America,COL
+148,Colombia,29.2,2016,113,CO,South America,COL
+149,Colombia,35.3,2018,92,CO,South America,COL
+150,Colombia,30.7,2020,116,CO,South America,COL
+151,Colombia,26.7,2022,136,CO,South America,COL
+152,Costa Rica,68.4,2012,44,CR,North America,CRI
+153,Costa Rica,65.6,2014,47,CR,North America,CRI
+154,Costa Rica,57.8,2016,38,CR,North America,CRI
+155,Costa Rica,56.2,2018,44,CR,North America,CRI
+156,Costa Rica,54.0,2020,43,CR,North America,CRI
+157,Costa Rica,47.0,2022,67,CR,North America,CRI
+158,Croatia,80.7,2010,24,HR,Europe,HRV
+159,Croatia,67.5,2012,46,HR,Europe,HRV
+160,Croatia,69.0,2014,41,HR,Europe,HRV
+161,Croatia,48.2,2016,59,HR,Europe,HRV
+162,Croatia,55.1,2018,48,HR,Europe,HRV
+163,Croatia,49.7,2020,53,HR,Europe,HRV
+164,Croatia,48.9,2022,59,HR,Europe,HRV
+165,Cuba,43.5,2020,69,CU,North America,CUB
+166,Cuba,55.0,2022,42,CU,North America,CUB
+167,Cyprus,94.1,2010,15,CY,Asia,CYP
+168,Cyprus,89.5,2012,25,CY,Asia,CYP
+169,Cyprus,89.8,2014,21,CY,Asia,CYP
+170,Cyprus,57.0,2016,39,CY,Asia,CYP
+171,Cyprus,60.3,2018,36,CY,Asia,CYP
+172,Cyprus,57.9,2020,36,CY,Asia,CYP
+173,Cyprus,59.0,2022,37,CY,Asia,CYP
+174,Czech Republic,72.1,2010,28,CZ,Europe,CZE
+175,Czech Republic,61.4,2012,56,CZ,Europe,CZE
+176,Czech Republic,56.6,2014,66,CZ,Europe,CZE
+177,Czech Republic,41.8,2016,79,CZ,Europe,CZE
+178,Czech Republic,50.1,2018,57,CZ,Europe,CZE
+179,Czech Republic,46.1,2020,61,CZ,Europe,CZE
+180,Czech Republic,48.2,2022,63,CZ,Europe,CZE
+181,Denmark,138.9,2010,2,DK,Europe,DNK
+182,Denmark,116.5,2012,6,DK,Europe,DNK
+183,Denmark,114.9,2014,3,DK,Europe,DNK
+184,Denmark,84.9,2016,6,DK,Europe,DNK
+185,Denmark,93.3,2018,7,DK,Europe,DNK
+186,Denmark,83.0,2020,5,DK,Europe,DNK
+187,Denmark,84.1,2022,8,DK,Europe,DNK
+188,Dominican Republic,58.0,2014,64,DO,North America,DOM
+189,Dominican Republic,51.4,2016,54,DO,North America,DOM
+190,Dominican Republic,47.9,2018,63,DO,North America,DOM
+191,Dominican Republic,44.1,2020,67,DO,North America,DOM
+192,Dominican Republic,41.8,2022,79,DO,North America,DOM
+193,Ecuador,45.7,2010,53,EC,South America,ECU
+194,Ecuador,50.8,2012,72,EC,South America,ECU
+195,Ecuador,45.2,2014,98,EC,South America,ECU
+196,Ecuador,44.3,2016,73,EC,South America,ECU
+197,Ecuador,44.3,2018,75,EC,South America,ECU
+198,Ecuador,41.0,2020,76,EC,South America,ECU
+199,Ecuador,37.3,2022,91,EC,South America,ECU
+200,Egypt,49.6,2012,78,EG,Africa,EGY
+201,Egypt,38.3,2014,110,EG,Africa,EGY
+202,Egypt,36.7,2016,96,EG,Africa,EGY
+203,Egypt,25.7,2018,114,EG,Africa,EGY
+204,Egypt,29.5,2020,121,EG,Africa,EGY
+205,Egypt,29.5,2022,127,EG,Africa,EGY
+206,El Salvador,53.1,2014,73,SV,North America,SLV
+207,El Salvador,42.6,2016,78,SV,North America,SLV
+208,El Salvador,47.9,2018,64,SV,North America,SLV
+209,El Salvador,45.6,2020,62,SV,North America,SLV
+210,El Salvador,44.4,2022,71,SV,North America,SLV
+211,Estonia,66.9,2012,48,EE,Europe,EST
+212,Estonia,67.3,2014,44,EE,Europe,EST
+213,Estonia,48.9,2016,58,EE,Europe,EST
+214,Estonia,57.6,2018,42,EE,Europe,EST
+215,Estonia,50.9,2020,50,EE,Europe,EST
+216,Estonia,53.7,2022,47,EE,Europe,EST
+217,Ethiopia,55.5,2014,68,ET,Africa,ETH
+218,Ethiopia,44.3,2016,74,ET,Africa,ETH
+219,Ethiopia,47.5,2018,66,ET,Africa,ETH
+220,Ethiopia,54.4,2020,41,ET,Africa,ETH
+221,Ethiopia,47.5,2022,65,ET,Africa,ETH
+222,Fiji,43.8,2016,77,FJ,Oceania,FJI
+223,Fiji,47.5,2020,60,FJ,Oceania,FJI
+224,Fiji,43.2,2022,77,FJ,Oceania,FJI
+225,Finland,111.1,2010,9,FI,Europe,FIN
+226,Finland,99.7,2012,14,FI,Europe,FIN
+227,Finland,103.3,2014,12,FI,Europe,FIN
+228,Finland,75.2,2016,20,FI,Europe,FIN
+229,Finland,81.7,2018,19,FI,Europe,FIN
+230,Finland,70.3,2020,22,FI,Europe,FIN
+231,Finland,73.2,2022,21,FI,Europe,FIN
+232,France,123.5,2010,4,FR,Europe,FRA
+233,France,98.2,2012,16,FR,Europe,FRA
+234,France,100.2,2014,13,FR,Europe,FRA
+235,France,75.3,2016,19,FR,Europe,FRA
+236,France,83.9,2018,13,FR,Europe,FRA
+237,France,74.1,2020,14,FR,Europe,FRA
+238,France,74.1,2022,19,FR,Europe,FRA
+239,Georgia,56.1,2012,61,GE,Asia,GEO
+240,Georgia,46.2,2014,95,GE,Asia,GEO
+241,Georgia,28.7,2016,116,GE,Asia,GEO
+242,Georgia,29.7,2018,108,GE,Asia,GEO
+243,Georgia,28.5,2020,123,GE,Asia,GEO
+244,Georgia,30.2,2022,125,GE,Asia,GEO
+245,Germany,105.5,2010,12,DE,Europe,DEU
+246,Germany,88.6,2012,26,DE,Europe,DEU
+247,Germany,87.1,2014,25,DE,Europe,DEU
+248,Germany,65.5,2016,29,DE,Europe,DEU
+249,Germany,74.3,2018,24,DE,Europe,DEU
+250,Germany,65.3,2020,29,DE,Europe,DEU
+251,Germany,65.6,2022,34,DE,Europe,DEU
+252,Ghana,64.6,2014,48,GH,Africa,GHA
+253,Ghana,63.4,2016,33,GH,Africa,GHA
+254,Ghana,59.8,2018,38,GH,Africa,GHA
+255,Ghana,37.6,2020,91,GH,Africa,GHA
+256,Ghana,36.2,2022,95,GH,Africa,GHA
+257,Greece,77.0,2010,25,GR,Europe,GRC
+258,Greece,93.1,2012,24,GR,Europe,GRC
+259,Greece,83.8,2014,26,GR,Europe,GRC
+260,Greece,54.4,2016,46,GR,Europe,GRC
+261,Greece,63.2,2018,33,GR,Europe,GRC
+262,Greece,55.7,2020,38,GR,Europe,GRC
+263,Greece,56.2,2022,41,GR,Europe,GRC
+264,Guatemala,52.0,2014,76,GT,North America,GTM
+265,Guatemala,44.1,2016,75,GT,North America,GTM
+266,Guatemala,46.9,2018,67,GT,North America,GTM
+267,Guatemala,42.7,2020,73,GT,North America,GTM
+268,Guatemala,43.5,2022,74,GT,North America,GTM
+269,Guernsey,83.6,2022,11,GG,Europe,GGY
+270,Honduras,51.0,2014,79,HN,North America,HND
+271,Honduras,47.8,2016,63,HN,North America,HND
+272,Honduras,44.3,2018,76,HN,North America,HND
+273,Honduras,42.2,2020,74,HN,North America,HND
+274,Honduras,40.5,2022,82,HN,North America,HND
+275,Hong Kong,64.7,2010,33,HK,Asia,HKG
+276,Hong Kong,84.4,2012,28,HK,Asia,HKG
+277,Hong Kong,76.4,2014,32,HK,Asia,HKG
+278,Hong Kong,81.5,2016,10,HK,Asia,HKG
+279,Hong Kong,78.7,2018,22,HK,Asia,HKG
+280,Hong Kong,77.2,2020,11,HK,Asia,HKG
+281,Hong Kong,80.7,2022,12,HK,Asia,HKG
+282,Hungary,64.4,2010,34,HU,Europe,HUN
+283,Hungary,59.7,2012,59,HU,Europe,HUN
+284,Hungary,59.3,2014,60,HU,Europe,HUN
+285,Hungary,41.3,2016,80,HU,Europe,HUN
+286,Hungary,48.6,2018,61,HU,Europe,HUN
+287,Hungary,40.9,2020,77,HU,Europe,HUN
+288,Hungary,40.7,2022,81,HU,Europe,HUN
+289,Iceland,103.6,2012,10,IS,Europe,ISL
+290,Iceland,111.8,2014,5,IS,Europe,ISL
+291,Iceland,96.5,2016,5,IS,Europe,ISL
+292,Iceland,124.0,2018,3,IS,Europe,ISL
+293,Iceland,100.5,2020,3,IS,Europe,ISL
+294,Iceland,94.9,2022,4,IS,Europe,ISL
+295,India,28.7,2010,62,IN,Asia,IND
+296,India,33.4,2012,90,IN,Asia,IND
+297,India,26.7,2014,113,IN,Asia,IND
+298,India,24.1,2016,122,IN,Asia,IND
+299,India,26.9,2018,112,IN,Asia,IND
+300,India,24.6,2020,130,IN,Asia,IND
+301,India,24.4,2022,137,IN,Asia,IND
+302,Indonesia,38.6,2010,56,ID,Asia,IDN
+303,Indonesia,51.4,2012,69,ID,Asia,IDN
+304,Indonesia,39.0,2014,109,ID,Asia,IDN
+305,Indonesia,36.3,2016,98,ID,Asia,IDN
+306,Indonesia,39.7,2018,81,ID,Asia,IDN
+307,Indonesia,37.3,2020,93,ID,Asia,IDN
+308,Indonesia,35.9,2022,97,ID,Asia,IDN
+309,Iran,53.9,2010,45,IR,Asia,IRN
+310,Iran,54.8,2012,65,IR,Asia,IRN
+311,Iran,49.5,2014,87,IR,Asia,IRN
+312,Iran,41.1,2016,81,IR,Asia,IRN
+313,Iran,34.6,2018,95,IR,Asia,IRN
+314,Iran,39.0,2020,86,IR,Asia,IRN
+315,Iran,37.4,2022,90,IR,Asia,IRN
+316,Iraq,51.3,2014,78,IQ,Asia,IRQ
+317,Iraq,50.6,2016,55,IQ,Asia,IRQ
+318,Iraq,43.9,2018,78,IQ,Asia,IRQ
+319,Iraq,39.0,2020,85,IQ,Asia,IRQ
+320,Iraq,34.5,2022,107,IQ,Asia,IRQ
+321,Ireland,119.8,2010,7,IE,Europe,IRL
+322,Ireland,107.8,2012,8,IE,Europe,IRL
+323,Ireland,106.6,2014,8,IE,Europe,IRL
+324,Ireland,78.0,2016,15,IE,Europe,IRL
+325,Ireland,85.4,2018,11,IE,Europe,IRL
+326,Ireland,75.9,2020,13,IE,Europe,IRL
+327,Ireland,76.1,2022,16,IE,Europe,IRL
+328,Israel,89.7,2010,17,IL,Asia,ISR
+329,Israel,95.5,2012,20,IL,Asia,ISR
+330,Israel,91.5,2014,20,IL,Asia,ISR
+331,Israel,75.7,2016,16,IL,Asia,ISR
+332,Israel,86.5,2018,10,IL,Asia,ISR
+333,Israel,81.2,2020,8,IL,Asia,ISR
+334,Israel,88.1,2022,7,IL,Asia,ISR
+335,Italy,115.4,2010,8,IT,Europe,ITA
+336,Italy,94.8,2012,22,IT,Europe,ITA
+337,Italy,96.8,2014,18,IT,Europe,ITA
+338,Italy,68.8,2016,25,IT,Europe,ITA
+339,Italy,79.1,2018,21,IT,Europe,ITA
+340,Italy,67.3,2020,28,IT,Europe,ITA
+341,Italy,66.5,2022,32,IT,Europe,ITA
+342,Ivory Coast,47.0,2022,66,CI,Africa,CIV
+343,Jamaica,73.4,2014,37,JM,North America,JAM
+344,Jamaica,55.7,2016,42,JM,North America,JAM
+345,Jamaica,60.6,2018,35,JM,North America,JAM
+346,Jamaica,57.8,2020,37,JM,North America,JAM
+347,Jamaica,49.7,2022,55,JM,North America,JAM
+348,Japan,86.7,2010,20,JP,Asia,JPN
+349,Japan,134.2,2012,3,JP,Asia,JPN
+350,Japan,94.1,2014,19,JP,Asia,JPN
+351,Japan,81.3,2016,11,JP,Asia,JPN
+352,Japan,86.6,2018,9,JP,Asia,JPN
+353,Japan,83.3,2020,4,JP,Asia,JPN
+354,Japan,77.0,2022,15,JP,Asia,JPN
+355,Jersey,92.0,2022,6,JE,Europe,JEY
+356,Jordan,65.6,2010,32,JO,Asia,JOR
+357,Jordan,60.4,2012,57,JO,Asia,JOR
+358,Jordan,61.5,2014,53,JO,Asia,JOR
+359,Jordan,53.1,2016,48,JO,Asia,JOR
+360,Jordan,55.1,2018,47,JO,Asia,JOR
+361,Jordan,53.7,2020,46,JO,Asia,JOR
+362,Jordan,49.2,2022,57,JO,Asia,JOR
+363,Kazakhstan,70.8,2012,41,KZ,Asia,KAZ
+364,Kazakhstan,63.1,2014,49,KZ,Asia,KAZ
+365,Kazakhstan,26.8,2016,119,KZ,Asia,KAZ
+366,Kazakhstan,34.3,2018,97,KZ,Asia,KAZ
+367,Kazakhstan,30.6,2020,117,KZ,Asia,KAZ
+368,Kazakhstan,28.7,2022,129,KZ,Asia,KAZ
+369,Kenya,53.6,2014,72,KE,Africa,KEN
+370,Kenya,39.8,2016,83,KE,Africa,KEN
+371,Kenya,38.7,2018,87,KE,Africa,KEN
+372,Kenya,40.2,2020,79,KE,Africa,KEN
+373,Kenya,33.9,2022,108,KE,Africa,KEN
+374,Kosovo (Disputed Territory),29.4,2018,109,XK,Europe,XXK
+375,Kosovo (Disputed Territory),28.5,2020,124,XK,Europe,XXK
+376,Kosovo (Disputed Territory),27.1,2022,134,XK,Europe,XXK
+377,Kuwait,96.2,2012,18,KW,Asia,KWT
+378,Kuwait,74.1,2014,35,KW,Asia,KWT
+379,Kuwait,81.6,2016,9,KW,Asia,KWT
+380,Kuwait,56.9,2018,43,KW,Asia,KWT
+381,Kuwait,50.4,2020,51,KW,Asia,KWT
+382,Kuwait,48.7,2022,60,KW,Asia,KWT
+383,Kyrgyzstan,27.0,2020,127,KG,Asia,KGZ
+384,Latvia,68.2,2010,29,LV,Europe,LVA
+385,Latvia,67.8,2012,45,LV,Europe,LVA
+386,Latvia,66.0,2014,46,LV,Europe,LVA
+387,Latvia,47.1,2016,67,LV,Europe,LVA
+388,Latvia,53.4,2018,52,LV,Europe,LVA
+389,Latvia,47.9,2020,58,LV,Europe,LVA
+390,Latvia,48.5,2022,61,LV,Europe,LVA
+391,Lebanon,86.1,2012,27,LB,Asia,LBN
+392,Lebanon,70.2,2014,38,LB,Asia,LBN
+393,Lebanon,63.1,2016,34,LB,Asia,LBN
+394,Lebanon,60.2,2018,37,LB,Asia,LBN
+395,Lebanon,60.5,2020,34,LB,Asia,LBN
+396,Lebanon,69.6,2022,28,LB,Asia,LBN
+397,Libya,52.3,2014,74,LY,Africa,LBY
+398,Libya,39.7,2016,85,LY,Africa,LBY
+399,Libya,48.3,2022,62,LY,Africa,LBY
+400,Lithuania,50.1,2010,50,LT,Europe,LTU
+401,Lithuania,62.1,2012,55,LT,Europe,LTU
+402,Lithuania,60.0,2014,57,LT,Europe,LTU
+403,Lithuania,45.6,2016,68,LT,Europe,LTU
+404,Lithuania,53.2,2018,53,LT,Europe,LTU
+405,Lithuania,44.3,2020,66,LT,Europe,LTU
+406,Lithuania,45.6,2022,69,LT,Europe,LTU
+407,Luxembourg,109.9,2014,6,LU,Europe,LUX
+408,Luxembourg,82.0,2016,8,LU,Europe,LUX
+409,Luxembourg,96.6,2018,6,LU,Europe,LUX
+410,Luxembourg,81.9,2020,7,LU,Europe,LUX
+411,Luxembourg,80.5,2022,13,LU,Europe,LUX
+412,Macao,64.1,2016,32,MO,Asia,MAC
+413,Macao,64.8,2020,30,MO,Asia,MAC
+414,Macao,66.8,2022,30,MO,Asia,MAC
+415,Malaysia,37.5,2010,58,MY,Asia,MYS
+416,Malaysia,54.9,2012,64,MY,Asia,MYS
+417,Malaysia,48.7,2014,89,MY,Asia,MYS
+418,Malaysia,37.5,2016,94,MY,Asia,MYS
+419,Malaysia,44.7,2018,72,MY,Asia,MYS
+420,Malaysia,39.1,2020,84,MY,Asia,MYS
+421,Malaysia,37.0,2022,93,MY,Asia,MYS
+422,Maldives,57.7,2022,40,MV,Asia,MDV
+423,Malta,83.2,2012,32,MT,Europe,MLT
+424,Malta,80.2,2014,27,MT,Europe,MLT
+425,Malta,61.4,2016,35,MT,Europe,MLT
+426,Malta,70.9,2018,27,MT,Europe,MLT
+427,Malta,67.5,2020,26,MT,Europe,MLT
+428,Malta,67.8,2022,29,MT,Europe,MLT
+429,Mauritius,59.5,2014,59,MU,Africa,MUS
+430,Mauritius,47.9,2016,62,MU,Africa,MUS
+431,Mauritius,55.0,2018,49,MU,Africa,MUS
+432,Mauritius,53.0,2020,48,MU,Africa,MUS
+433,Mauritius,44.1,2022,72,MU,Africa,MUS
+434,Mexico,49.7,2010,51,MX,North America,MEX
+435,Mexico,55.1,2012,63,MX,North America,MEX
+436,Mexico,47.0,2014,93,MX,North America,MEX
+437,Mexico,35.0,2016,102,MX,North America,MEX
+438,Mexico,33.6,2018,99,MX,North America,MEX
+439,Mexico,35.7,2020,97,MX,North America,MEX
+440,Mexico,35.3,2022,100,MX,North America,MEX
+441,Moldova,47.8,2012,82,MD,Europe,MDA
+442,Moldova,41.6,2014,103,MD,Europe,MDA
+443,Moldova,25.7,2016,121,MD,Europe,MDA
+444,Moldova,33.1,2018,101,MD,Europe,MDA
+445,Moldova,33.7,2020,105,MD,Europe,MDA
+446,Moldova,30.3,2022,123,MD,Europe,MDA
+447,Monaco,128.2,2012,4,MC,Europe,MCO
+448,Mongolia,53.9,2012,68,MN,Asia,MNG
+449,Mongolia,34.7,2022,104,MN,Asia,MNG
+450,Montenegro,61.1,2010,36,ME,Europe,MNE
+451,Montenegro,62.2,2012,54,ME,Europe,MNE
+452,Montenegro,57.3,2014,65,ME,Europe,MNE
+453,Montenegro,39.5,2016,87,ME,Europe,MNE
+454,Montenegro,44.4,2018,74,ME,Europe,MNE
+455,Montenegro,38.2,2020,90,ME,Europe,MNE
+456,Montenegro,38.9,2022,87,ME,Europe,MNE
+457,Morocco,71.9,2012,39,MA,Africa,MAR
+458,Morocco,47.5,2014,92,MA,Africa,MAR
+459,Morocco,35.6,2016,99,MA,Africa,MAR
+460,Morocco,37.1,2018,89,MA,Africa,MAR
+461,Morocco,34.3,2020,104,MA,Africa,MAR
+462,Morocco,33.8,2022,110,MA,Africa,MAR
+463,Myanmar,51.6,2016,53,MM,Asia,MMR
+464,Myanmar,42.1,2020,75,MM,Asia,MMR
+465,Myanmar,35.7,2022,98,MM,Asia,MMR
+466,Namibia,59.8,2014,58,NA,Africa,NAM
+467,Namibia,39.7,2016,84,NA,Africa,NAM
+468,Namibia,43.1,2020,71,NA,Africa,NAM
+469,Nepal,44.3,2012,84,NP,Asia,NPL
+470,Nepal,31.4,2014,111,NP,Asia,NPL
+471,Nepal,27.3,2016,118,NP,Asia,NPL
+472,Nepal,32.6,2018,103,NP,Asia,NPL
+473,Nepal,29.0,2020,122,NP,Asia,NPL
+474,Nepal,28.3,2022,131,NP,Asia,NPL
+475,Netherlands,123.6,2010,3,NL,Europe,NLD
+476,Netherlands,104.5,2012,9,NL,Europe,NLD
+477,Netherlands,98.8,2014,17,NL,Europe,NLD
+478,Netherlands,72.1,2016,23,NL,Europe,NLD
+479,Netherlands,82.7,2018,18,NL,Europe,NLD
+480,Netherlands,73.7,2020,15,NL,Europe,NLD
+481,Netherlands,75.7,2022,17,NL,Europe,NLD
+482,New Zealand,101.7,2012,12,NZ,Oceania,NZL
+483,New Zealand,104.5,2014,9,NZ,Oceania,NZL
+484,New Zealand,78.2,2016,14,NZ,Oceania,NZL
+485,New Zealand,83.4,2018,15,NZ,Oceania,NZL
+486,New Zealand,72.5,2020,17,NZ,Oceania,NZL
+487,New Zealand,74.5,2022,18,NZ,Oceania,NZL
+488,Nicaragua,48.3,2012,80,NI,North America,NIC
+489,Nicaragua,44.6,2020,64,NI,North America,NIC
+490,Nicaragua,39.6,2022,84,NI,North America,NIC
+491,Nigeria,73.8,2014,36,NG,Africa,NGA
+492,Nigeria,47.2,2016,66,NG,Africa,NGA
+493,Nigeria,34.7,2018,94,NG,Africa,NGA
+494,Nigeria,31.0,2020,115,NG,Africa,NGA
+495,Nigeria,30.5,2022,122,NG,Africa,NGA
+496,North Macedonia,42.8,2012,87,MK,Europe,MKD
+497,North Macedonia,44.2,2014,100,MK,Europe,MKD
+498,North Macedonia,31.0,2016,111,MK,Europe,MKD
+499,North Macedonia,34.8,2018,93,MK,Europe,MKD
+500,North Macedonia,31.6,2020,113,MK,Europe,MKD
+501,North Macedonia,31.4,2022,118,MK,Europe,MKD
+502,Norway,161.3,2010,1,NO,Europe,NOR
+503,Norway,151.3,2012,1,NO,Europe,NOR
+504,Norway,144.4,2014,1,NO,Europe,NOR
+505,Norway,99.8,2016,4,NO,Europe,NOR
+506,Norway,113.7,2018,4,NO,Europe,NOR
+507,Norway,101.4,2020,2,NO,Europe,NOR
+508,Norway,100.9,2022,3,NO,Europe,NOR
+509,Oman,56.0,2014,67,OM,Asia,OMN
+510,Oman,53.1,2016,47,OM,Asia,OMN
+511,Oman,49.3,2018,59,OM,Asia,OMN
+512,Oman,49.3,2020,55,OM,Asia,OMN
+513,Oman,49.4,2022,56,OM,Asia,OMN
+514,Pakistan,32.4,2010,60,PK,Asia,PAK
+515,Pakistan,36.2,2012,89,PK,Asia,PAK
+516,Pakistan,29.7,2014,112,PK,Asia,PAK
+517,Pakistan,26.7,2016,120,PK,Asia,PAK
+518,Pakistan,25.1,2018,115,PK,Asia,PAK
+519,Pakistan,22.0,2020,132,PK,Asia,PAK
+520,Pakistan,19.9,2022,139,PK,Asia,PAK
+521,Palestine,52.9,2016,49,PS,Asia,PSE
+522,Palestine,58.2,2018,41,PS,Asia,PSE
+523,Palestine,54.5,2020,40,PS,Asia,PSE
+524,Palestine,58.1,2022,39,PS,Asia,PSE
+525,Panama,54.0,2012,67,PA,North America,PAN
+526,Panama,52.2,2014,75,PA,North America,PAN
+527,Panama,52.6,2016,50,PA,North America,PAN
+528,Panama,52.4,2018,54,PA,North America,PAN
+529,Panama,54.2,2020,42,PA,North America,PAN
+530,Panama,51.4,2022,51,PA,North America,PAN
+531,Paraguay,53.6,2010,46,PY,South America,PRY
+532,Paraguay,31.1,2020,114,PY,South America,PRY
+533,Paraguay,30.2,2022,124,PY,South America,PRY
+534,Peru,55.1,2012,62,PE,South America,PER
+535,Peru,50.9,2014,80,PE,South America,PER
+536,Peru,38.0,2016,92,PE,South America,PER
+537,Peru,39.6,2018,83,PE,South America,PER
+538,Peru,38.7,2020,88,PE,South America,PER
+539,Peru,32.5,2022,116,PE,South America,PER
+540,Philippines,43.6,2012,85,PH,Asia,PHL
+541,Philippines,40.3,2014,107,PH,Asia,PHL
+542,Philippines,34.7,2016,105,PH,Asia,PHL
+543,Philippines,36.0,2018,91,PH,Asia,PHL
+544,Philippines,37.6,2020,92,PH,Asia,PHL
+545,Philippines,37.1,2022,92,PH,Asia,PHL
+546,Poland,52.6,2010,48,PL,Europe,POL
+547,Poland,49.7,2012,77,PL,Europe,POL
+548,Poland,53.7,2014,70,PL,Europe,POL
+549,Poland,38.5,2016,90,PL,Europe,POL
+550,Poland,45.2,2018,70,PL,Europe,POL
+551,Poland,40.0,2020,81,PL,Europe,POL
+552,Poland,39.0,2022,86,PL,Europe,POL
+553,Portugal,84.7,2010,22,PT,Europe,PRT
+554,Portugal,70.8,2012,42,PT,Europe,PRT
+555,Portugal,69.3,2014,40,PT,Europe,PRT
+556,Portugal,49.8,2016,56,PT,Europe,PRT
+557,Portugal,55.9,2018,45,PT,Europe,PRT
+558,Portugal,49.5,2020,54,PT,Europe,PRT
+559,Portugal,47.9,2022,64,PT,Europe,PRT
+560,Puerto Rico,84.3,2012,30,PR,North America,PRI
+561,Puerto Rico,76.5,2014,31,PR,North America,PRI
+562,Puerto Rico,66.7,2016,26,PR,North America,PRI
+563,Puerto Rico,67.0,2018,29,PR,North America,PRI
+564,Puerto Rico,67.5,2020,25,PR,North America,PRI
+565,Puerto Rico,66.5,2022,31,PR,North America,PRI
+566,Qatar,84.3,2012,29,QA,Asia,QAT
+567,Qatar,75.3,2014,34,QA,Asia,QAT
+568,Qatar,70.0,2016,24,QA,Asia,QAT
+569,Qatar,65.4,2018,32,QA,Asia,QAT
+570,Qatar,64.0,2020,31,QA,Asia,QAT
+571,Qatar,62.8,2022,35,QA,Asia,QAT
+572,Romania,45.7,2010,52,RO,Europe,ROU
+573,Romania,47.9,2012,81,RO,Europe,ROU
+574,Romania,48.2,2014,91,RO,Europe,ROU
+575,Romania,34.8,2016,103,RO,Europe,ROU
+576,Romania,39.7,2018,82,RO,Europe,ROU
+577,Romania,35.3,2020,99,RO,Europe,ROU
+578,Romania,35.2,2022,102,RO,Europe,ROU
+579,Russia,59.0,2010,40,RU,Europe,RUS
+580,Russia,64.8,2012,50,RU,Europe,RUS
+581,Russia,61.8,2014,51,RU,Europe,RUS
+582,Russia,38.5,2016,91,RU,Europe,RUS
+583,Russia,43.9,2018,77,RU,Europe,RUS
+584,Russia,39.2,2020,82,RU,Europe,RUS
+585,Russia,35.3,2022,101,RU,Europe,RUS
+586,Rwanda,33.3,2020,106,RW,Africa,RWA
+587,Rwanda,31.6,2022,117,RW,Africa,RWA
+588,Saudi Arabia,93.4,2012,23,SA,Asia,SAU
+589,Saudi Arabia,68.1,2014,43,SA,Asia,SAU
+590,Saudi Arabia,47.6,2016,64,SA,Asia,SAU
+591,Saudi Arabia,47.9,2018,65,SA,Asia,SAU
+592,Saudi Arabia,48.3,2020,57,SA,Asia,SAU
+593,Saudi Arabia,50.4,2022,53,SA,Asia,SAU
+594,Senegal,50.2,2022,54,SN,Africa,SEN
+595,Serbia,62.4,2010,35,RS,Europe,SRB
+596,Serbia,50.5,2012,74,RS,Europe,SRB
+597,Serbia,51.6,2014,77,RS,Europe,SRB
+598,Serbia,33.6,2016,109,RS,Europe,SRB
+599,Serbia,39.6,2018,84,RS,Europe,SRB
+600,Serbia,35.7,2020,98,RS,Europe,SRB
+601,Serbia,36.2,2022,94,RS,Europe,SRB
+602,Seychelles,71.6,2020,19,SC,Africa,SYC
+603,Seychelles,65.9,2022,33,SC,Africa,SYC
+604,Singapore,65.9,2010,31,SG,Asia,SGP
+605,Singapore,96.1,2012,19,SG,Asia,SGP
+606,Singapore,100.0,2014,16,SG,Asia,SGP
+607,Singapore,83.7,2016,7,SG,Asia,SGP
+608,Singapore,91.4,2018,8,SG,Asia,SGP
+609,Singapore,81.1,2020,9,SG,Asia,SGP
+610,Singapore,84.0,2022,10,SG,Asia,SGP
+611,Slovakia,59.3,2012,60,SK,Europe,SVK
+612,Slovakia,61.5,2014,52,SK,Europe,SVK
+613,Slovakia,45.0,2016,71,SK,Europe,SVK
+614,Slovakia,50.4,2018,56,SK,Europe,SVK
+615,Slovakia,44.5,2020,65,SK,Europe,SVK
+616,Slovakia,44.7,2022,70,SK,Europe,SVK
+617,Slovenia,76.0,2010,26,SI,Europe,SVN
+618,Slovenia,74.3,2012,38,SI,Europe,SVN
+619,Slovenia,75.4,2014,33,SI,Europe,SVN
+620,Slovenia,52.2,2016,51,SI,Europe,SVN
+621,Slovenia,59.6,2018,39,SI,Europe,SVN
+622,Slovenia,53.4,2020,47,SI,Europe,SVN
+623,Slovenia,53.9,2022,45,SI,Europe,SVN
+624,Somalia,38.7,2020,87,SO,Africa,SOM
+625,Somalia,34.6,2022,106,SO,Africa,SOM
+626,South Africa,59.4,2010,39,ZA,Africa,ZAF
+627,South Africa,75.6,2012,37,ZA,Africa,ZAF
+628,South Africa,48.6,2014,90,ZA,Africa,ZAF
+629,South Africa,34.7,2016,104,ZA,Africa,ZAF
+630,South Africa,48.1,2018,62,ZA,Africa,ZAF
+631,South Africa,42.9,2020,72,ZA,Africa,ZAF
+632,South Africa,42.1,2022,78,ZA,Africa,ZAF
+633,South Korea,88.6,2010,18,KR,Asia,KOR
+634,South Korea,68.6,2012,43,KR,Asia,KOR
+635,South Korea,87.6,2014,24,KR,Asia,KOR
+636,South Korea,73.2,2016,22,KR,Asia,KOR
+637,South Korea,82.9,2018,17,KR,Asia,KOR
+638,South Korea,78.2,2020,10,KR,Asia,KOR
+639,South Korea,73.2,2022,20,KR,Asia,KOR
+640,Spain,91.3,2010,16,ES,Europe,ESP
+641,Spain,80.2,2012,36,ES,Europe,ESP
+642,Spain,77.2,2014,30,ES,Europe,ESP
+643,Spain,56.1,2016,40,ES,Europe,ESP
+644,Spain,61.8,2018,34,ES,Europe,ESP
+645,Spain,53.8,2020,44,ES,Europe,ESP
+646,Spain,53.9,2022,46,ES,Europe,ESP
+647,Sri Lanka,42.8,2014,101,LK,Asia,LKA
+648,Sri Lanka,34.1,2016,107,LK,Asia,LKA
+649,Sri Lanka,34.3,2018,96,LK,Asia,LKA
+650,Sri Lanka,31.6,2020,112,LK,Asia,LKA
+651,Sri Lanka,31.3,2022,119,LK,Asia,LKA
+652,Suriname,43.1,2020,70,SR,South America,SUR
+653,Suriname,51.8,2022,50,SR,South America,SUR
+654,Sweden,104.2,2010,13,SE,Europe,SWE
+655,Sweden,101.9,2012,11,SE,Europe,SWE
+656,Sweden,103.7,2014,10,SE,Europe,SWE
+657,Sweden,75.7,2016,17,SE,Europe,SWE
+658,Sweden,83.7,2018,14,SE,Europe,SWE
+659,Sweden,69.8,2020,23,SE,Europe,SWE
+660,Sweden,71.7,2022,23,SE,Europe,SWE
+661,Switzerland,121.4,2010,5,CH,Europe,CHE
+662,Switzerland,141.3,2012,2,CH,Europe,CHE
+663,Switzerland,143.9,2014,2,CH,Europe,CHE
+664,Switzerland,123.1,2016,2,CH,Europe,CHE
+665,Switzerland,131.4,2018,2,CH,Europe,CHE
+666,Switzerland,122.4,2020,1,CH,Europe,CHE
+667,Switzerland,123.3,2022,2,CH,Europe,CHE
+668,Syria,50.2,2012,75,SY,Asia,SYR
+669,Syria,42.7,2014,102,SY,Asia,SYR
+670,Syria,31.7,2016,110,SY,Asia,SYR
+671,Syria,27.8,2018,110,SY,Asia,SYR
+672,Syria,25.3,2020,129,SY,Asia,SYR
+673,Syria,28.8,2022,128,SY,Asia,SYR
+674,Taiwan,62.9,2012,52,TW,Asia,TWN
+675,Taiwan,60.2,2014,55,TW,Asia,TWN
+676,Taiwan,55.8,2016,41,TW,Asia,TWN
+677,Taiwan,65.4,2018,31,TW,Asia,TWN
+678,Taiwan,61.4,2020,33,TW,Asia,TWN
+679,Taiwan,62.4,2022,36,TW,Asia,TWN
+680,Tanzania,50.1,2014,83,TZ,Africa,TZA
+681,Tanzania,49.5,2016,57,TZ,Africa,TZA
+682,Tanzania,45.0,2018,71,TZ,Africa,TZA
+683,Tanzania,35.3,2020,100,TZ,Africa,TZA
+684,Tanzania,32.8,2022,115,TZ,Africa,TZA
+685,Thailand,36.6,2010,59,TH,Asia,THA
+686,Thailand,50.2,2012,76,TH,Asia,THA
+687,Thailand,45.9,2014,96,TH,Asia,THA
+688,Thailand,40.0,2016,82,TH,Asia,THA
+689,Thailand,48.9,2018,60,TH,Asia,THA
+690,Thailand,49.8,2020,52,TH,Asia,THA
+691,Thailand,43.2,2022,75,TH,Asia,THA
+692,Trinidad and Tobago,58.8,2014,62,TT,North America,TTO
+693,Trinidad and Tobago,55.7,2016,43,TT,North America,TTO
+694,Trinidad and Tobago,54.6,2018,50,TT,North America,TTO
+695,Trinidad and Tobago,53.7,2020,45,TT,North America,TTO
+696,Trinidad and Tobago,54.9,2022,43,TT,North America,TTO
+697,Tunisia,54.5,2012,66,TN,Africa,TUN
+698,Tunisia,41.3,2014,104,TN,Africa,TUN
+699,Tunisia,30.7,2016,112,TN,Africa,TUN
+700,Tunisia,27.7,2018,111,TN,Africa,TUN
+701,Tunisia,27.0,2020,126,TN,Africa,TUN
+702,Tunisia,27.9,2022,132,TN,Africa,TUN
+703,Turkey,56.9,2010,42,TR,Asia,TUR
+704,Turkey,65.3,2012,49,TR,Asia,TUR
+705,Turkey,49.9,2014,85,TR,Asia,TUR
+706,Turkey,45.1,2016,70,TR,Asia,TUR
+707,Turkey,41.8,2018,79,TR,Asia,TUR
+708,Turkey,34.7,2020,102,TR,Asia,TUR
+709,Turkey,28.3,2022,130,TR,Asia,TUR
+710,Uganda,58.7,2014,63,UG,Africa,UGA
+711,Uganda,32.7,2018,102,UG,Africa,UGA
+712,Uganda,30.2,2020,118,UG,Africa,UGA
+713,Uganda,33.5,2022,111,UG,Africa,UGA
+714,Ukraine,31.4,2010,61,UA,Europe,UKR
+715,Ukraine,51.1,2012,70,UA,Europe,UKR
+716,Ukraine,45.6,2014,97,UA,Europe,UKR
+717,Ukraine,28.6,2016,117,UA,Europe,UKR
+718,Ukraine,26.0,2018,113,UA,Europe,UKR
+719,Ukraine,33.2,2020,107,UA,Europe,UKR
+720,Ukraine,30.7,2022,121,UA,Europe,UKR
+721,United Arab Emirates,83.8,2010,23,AE,Asia,ARE
+722,United Arab Emirates,82.0,2012,35,AE,Asia,ARE
+723,United Arab Emirates,68.2,2014,42,AE,Asia,ARE
+724,United Arab Emirates,66.1,2016,28,AE,Asia,ARE
+725,United Arab Emirates,67.2,2018,28,AE,Asia,ARE
+726,United Arab Emirates,62.0,2020,32,AE,Asia,ARE
+727,United Arab Emirates,58.3,2022,38,AE,Asia,ARE
+728,United Kingdom,107.4,2010,10,GB,Europe,GBR
+729,United Kingdom,100.1,2012,13,GB,Europe,GBR
+730,United Kingdom,100.1,2014,14,GB,Europe,GBR
+731,United Kingdom,81.0,2016,12,GB,Europe,GBR
+732,United Kingdom,75.8,2018,23,GB,Europe,GBR
+733,United Kingdom,67.3,2020,27,GB,Europe,GBR
+734,United Kingdom,69.7,2022,27,GB,Europe,GBR
+735,United States,88.5,2010,19,US,North America,USA
+736,United States,83.1,2012,33,US,North America,USA
+737,United States,77.4,2014,28,US,North America,USA
+738,United States,74.1,2016,21,US,North America,USA
+739,United States,73.0,2018,25,US,North America,USA
+740,United States,71.1,2020,20,US,North America,USA
+741,United States,70.1,2022,26,US,North America,USA
+742,Uruguay,83.0,2012,34,UY,South America,URY
+743,Uruguay,77.4,2014,29,UY,South America,URY
+744,Uruguay,55.6,2016,44,UY,South America,URY
+745,Uruguay,66.9,2018,30,UY,South America,URY
+746,Uruguay,51.0,2020,49,UY,South America,URY
+747,Uruguay,52.1,2022,49,UY,South America,URY
+748,Uzbekistan,44.7,2016,72,UZ,Asia,UZB
+749,Uzbekistan,26.0,2020,128,UZ,Asia,UZB
+750,Uzbekistan,27.3,2022,133,UZ,Asia,UZB
+751,Venezuela,58.9,2010,41,VE,South America,VEN
+752,Venezuela,114.4,2014,4,VE,South America,VEN
+753,Venezuela,60.0,2016,36,VE,South America,VEN
+754,Venezuela,32.2,2018,104,VE,South America,VEN
+755,Venezuela,27.2,2020,125,VE,South America,VEN
+756,Venezuela,43.2,2022,76,VE,South America,VEN
+757,Vietnam,42.9,2012,86,VN,Asia,VNM
+758,Vietnam,44.9,2014,99,VN,Asia,VNM
+759,Vietnam,39.5,2016,86,VN,Asia,VNM
+760,Vietnam,39.4,2018,85,VN,Asia,VNM
+761,Vietnam,38.3,2020,89,VN,Asia,VNM
+762,Vietnam,37.5,2022,89,VN,Asia,VNM
+763,Yemen,53.1,2022,48,YE,Asia,YEM
+764,Zambia,45.5,2016,69,ZM,Africa,ZMB
+765,Zambia,46.5,2018,68,ZM,Africa,ZMB
+766,Zambia,31.7,2020,111,ZM,Africa,ZMB
+767,Zambia,33.0,2022,114,ZM,Africa,ZMB
+768,Zimbabwe,69.9,2014,39,ZW,Africa,ZWE
+769,Zimbabwe,54.5,2016,45,ZW,Africa,ZWE
+770,Zimbabwe,49.5,2018,58,ZW,Africa,ZWE
+771,Zimbabwe,55.3,2020,39,ZW,Africa,ZWE
+772,Zimbabwe,45.7,2022,68,ZW,Africa,ZWE

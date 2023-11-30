@@ -1,0 +1,198 @@
+,Rank,Country,Cost of living,Iso Code 2,Continent
+0,1,Monaco,3585,MC,Europe
+1,2,Cayman Islands,2888,KY,North America
+2,3,Switzerland,2507,CH,Europe
+3,4,Singapore,2420,SG,Asia
+4,5,Liechtenstein,2118,LI,Europe
+5,6,United States,2112,US,North America
+6,7,Iceland,2054,IS,Europe
+7,8,Luxembourg,2050,LU,Europe
+8,9,Ireland,1974,IE,Europe
+9,10,Australia,1947,AU,Oceania
+10,11,Norway,1892,NO,Europe
+11,12,Qatar,1891,QA,Asia
+12,13,Vanuatu,1886,VU,Oceania
+13,14,Canada,1832,CA,North America
+14,15,Bahamas,1809,BS,North America
+15,16,United Kingdom,1804,GB,Europe
+16,17,Israel,1748,IL,Asia
+17,18,Netherlands,1680,NL,Europe
+18,19,New Zealand,1669,NZ,Oceania
+19,20,Denmark,1665,DK,Europe
+20,21,United Arab Emirates,1660,AE,Asia
+21,22,Solomon Islands,1577,SB,Oceania
+22,23,North Korea,1554,KP,Asia
+23,24,Antigua and Barbuda,1546,AG,North America
+24,25,Austria,1467,AT,Europe
+25,26,Finland,1423,FI,Europe
+26,27,Sweden,1398,SE,Europe
+27,28,Seychelles,1387,SC,Africa
+28,29,France,1363,FR,Europe
+29,30,Germany,1325,DE,Europe
+30,31,Belgium,1324,BE,Europe
+31,32,Kuwait,1312,KW,Asia
+32,33,Malta,1275,MT,Europe
+33,34,Marshall Islands,1271,MH,Oceania
+34,35,Barbados,1262,BB,North America
+35,36,Curaçao,1261,CW,North America
+36,37,Lebanon,1254,LB,Asia
+37,38,Italy,1221,IT,Europe
+38,39,Cyprus,1213,CY,Asia
+39,40,Maldives,1188,MV,Asia
+40,41,Saint Kitts and Nevis,1184,KN,North America
+41,42,Bahrain,1171,BH,Asia
+42,43,Japan,1171,JP,Asia
+43,44,Palau,1162,PW,Oceania
+44,45,Turkmenistan,1159,TM,Asia
+45,46,Spain,1141,ES,Europe
+46,47,Angola,1129,AO,Africa
+47,48,Oman,1126,OM,Asia
+48,49,Andorra,1104,AD,Europe
+49,50,Uruguay,1090,UY,South America
+50,51,Cuba,1078,CU,North America
+51,52,Brunei,1066,BN,Asia
+52,53,South Korea,1062,KR,Asia
+53,54,Slovenia,1059,SI,Europe
+54,55,Saint Lucia,1042,LC,North America
+55,56,Mozambique,1042,MZ,Africa
+56,57,Panama,1040,PA,North America
+57,58,Saudi Arabia,1020,SA,Asia
+58,59,Estonia,1019,EE,Europe
+59,60,San Marino,1018,SM,Europe
+60,61,Samoa,1014,WS,Oceania
+61,62,Grenada,1012,GD,North America
+62,63,Nigeria,1008,NG,Africa
+63,64,Czech Republic,1007,CZ,Europe
+64,65,"Congo, The Democratic Republic of the",1001,CD,Africa
+65,66,Zambia,1000,ZM,Africa
+66,67,Dominica,992,DM,North America
+67,68,Taiwan,981,TW,Asia
+68,69,Portugal,977,PT,Europe
+69,70,Trinidad and Tobago,977,TT,North America
+70,71,Senegal,969,SN,Africa
+71,72,Tonga,957,TO,Oceania
+72,73,Guinea,933,GN,Africa
+73,74,Greece,919,GR,Europe
+74,75,Palestine,916,PS,Asia
+75,76,Slovakia,913,SK,Europe
+76,77,Guatemala,910,GT,North America
+77,78,Croatia,896,HR,Europe
+78,79,Laos,894,LA,Asia
+79,80,Costa Rica,893,CR,North America
+80,81,Niger,885,NE,Africa
+81,82,Armenia,884,AM,Asia
+82,83,Jamaica,875,JM,North America
+83,84,Equatorial Guinea,871,GQ,Africa
+84,85,Russia,868,RU,Europe
+85,86,Saint Vincent and the Grenadines,863,VC,North America
+86,87,Latvia,860,LV,Europe
+87,88,Lithuania,859,LT,Europe
+88,89,El Salvador,853,SV,North America
+89,90,South Africa,852,ZA,Africa
+90,91,Ivory Coast,845,CI,Africa
+91,92,Belize,840,BZ,North America
+92,93,Chile,840,CL,South America
+93,94,Guyana,838,GY,South America
+94,95,Jordan,835,JO,Asia
+95,96,Zimbabwe,831,ZW,Africa
+96,97,Myanmar,822,MM,Asia
+97,98,Namibia,819,NA,Africa
+98,99,Poland,814,PL,Europe
+99,100,Georgia,812,GE,Asia
+100,101,Somalia,797,SO,Africa
+101,102,Cambodia,796,KH,Asia
+102,103,Sao Tome and Principe,795,ST,Africa
+103,104,Dominican Republic,791,DO,North America
+104,105,Holy See (Vatican City State),782,VA,Europe
+105,106,Honduras,771,HN,North America
+106,107,Venezuela,762,VE,South America
+107,108,China,758,CN,Asia
+108,109,Ecuador,750,EC,South America
+109,110,Sierra Leone,748,SL,Africa
+110,111,Tanzania,743,TZ,Africa
+111,112,Thailand,742,TH,Asia
+112,113,Mauritania,739,MR,Africa
+113,114,Ethiopia,732,ET,Africa
+114,115,Eswatini,728,SZ,Africa
+115,116,Fiji,725,FJ,Oceania
+116,117,Iran,723,IR,Asia
+117,118,Mexico,713,MX,North America
+118,119,Hungary,712,HU,Europe
+119,120,Bolivia,703,BO,South America
+120,121,Cape Verde,695,CV,Africa
+121,122,Iraq,688,IQ,Asia
+122,123,Suriname,679,SR,South America
+123,124,Burkina Faso,677,BF,Africa
+124,125,Peru,672,PE,South America
+125,126,Serbia,667,RS,Europe
+126,127,Rwanda,664,RW,Africa
+127,128,Brazil,661,BR,South America
+128,129,Sudan,657,SD,Africa
+129,130,Montenegro,655,ME,Europe
+130,131,Romania,650,RO,Europe
+131,132,Benin,645,BJ,Africa
+132,133,Bulgaria,639,BG,Europe
+133,134,Mauritius,629,MU,Africa
+134,135,Guinea-Bissau,628,GW,Africa
+135,136,Madagascar,628,MG,Africa
+136,137,Nicaragua,625,NI,North America
+137,138,Nauru,624,NR,Oceania
+138,139,Vietnam,622,VN,Asia
+139,140,Kenya,608,KE,Africa
+140,141,Botswana,607,BW,Africa
+141,142,Gabon,606,GA,Africa
+142,143,Togo,594,TG,Africa
+143,144,Albania,592,AL,Europe
+144,145,Lesotho,589,LS,Africa
+145,146,Philippines,587,PH,Asia
+146,147,Morocco,586,MA,Africa
+147,148,Belarus,581,BY,Europe
+148,149,Ghana,581,GH,Africa
+149,150,Argentina,576,AR,South America
+150,151,Malaysia,574,MY,Asia
+151,152,Uganda,574,UG,Africa
+152,153,Indonesia,564,ID,Asia
+153,154,Cameroon,560,CM,Africa
+154,155,Paraguay,555,PY,South America
+155,156,Malawi,553,MW,Africa
+156,157,Congo,550,CG,Africa
+157,158,Colombia,548,CO,South America
+158,159,Djibouti,548,DJ,Africa
+159,160,Bosnia and Herzegovina,546,BA,Europe
+160,161,Mongolia,546,MN,Asia
+161,162,Mali,536,ML,Africa
+162,163,Tuvalu,536,TV,Oceania
+163,164,Yemen,535,YE,Asia
+164,165,Uzbekistan,525,UZ,Asia
+165,166,Papua New Guinea,524,PG,Oceania
+166,167,Liberia,522,LR,Africa
+167,168,Azerbaijan,522,AZ,Asia
+168,169,Chad,518,TD,Africa
+169,170,Eritrea,516,ER,Africa
+170,171,Haiti,515,HT,North America
+171,172,Central African Republic,515,CF,Africa
+172,173,North Macedonia,512,MK,Europe
+173,174,Burundi,508,BI,Africa
+174,175,South Sudan,505,SS,Africa
+175,176,Comoros,504,KM,Africa
+176,177,East Timor,503,TL,Asia
+177,178,Syria,503,SY,Asia
+178,179,Moldova,501,MD,Europe
+179,180,Kiribati,499,KI,Oceania
+180,181,Bhutan,498,BT,Asia
+181,182,Tajikistan,491,TJ,Asia
+182,183,Kazakhstan,475,KZ,Asia
+183,184,Ukraine,458,UA,Europe
+184,185,Bangladesh,448,BD,Asia
+185,186,Kyrgyzstan,441,KG,Asia
+186,187,Turkey,428,TR,Asia
+187,188,Gambia,425,GM,Africa
+188,189,Egypt,418,EG,Africa
+189,190,India,416,IN,Asia
+190,191,Tunisia,416,TN,Africa
+191,192,Libya,398,LY,Africa
+192,193,Afghanistan,397,AF,Asia
+193,194,Algeria,391,DZ,Africa
+194,195,Nepal,385,NP,Asia
+195,196,Sri Lanka,316,LK,Asia
+196,197,Pakistan,294,PK,Asia
